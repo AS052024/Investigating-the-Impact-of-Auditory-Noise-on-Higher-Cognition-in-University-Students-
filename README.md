@@ -21,9 +21,9 @@ This code will produce a number of variables:
 11.   dat.accS - reports the score of each sentence classification (either 0 for incorrect or 1 for correct)
 12. dat_in - notes the data collected in the last loop of the code
 13. perf - this is another structure pertaining to the relevant scores for data analysis (score in working memory [letters recalled] and score in sentence comprehension accuracy)
-14.   n - refers to number of sentence-letter combinations presented to participant
-15.   acc - refers to sentence comprehension accuract scores specifically in each participant in each condition
-16.   PU/PL/FU/FL - refers to different working memory scoring systems in each participant in each condition
+14.   perf.n - refers to number of sentence-letter combinations presented to participant
+15.   perf.acc - refers to sentence comprehension accuract scores specifically in each participant in each condition
+16.   perf.PU/perf.PL/perf.FU/perf.FL - refers to different working memory scoring systems in each participant in each condition
 17. subj - notes the number of subjects within the code
 
 Finally, this code will also produce 3 plots
