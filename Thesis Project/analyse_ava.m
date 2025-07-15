@@ -1,7 +1,7 @@
 clear, close all
 
 % path details
-loadpath = 'C:\Users\21336721\OneDrive - Maynooth University\Thesis_data\';
+loadpath = '% enter load path here';
 
 % list subject IDs
 allsubj = {'KKDU','SKFH','ERPR','BNCL','DFYP','JAIZ','OGGK','UBGZ','IYHS','XHLL','POTR','GTZA','GPWQ','AIGZ','OMQP','YEMR','OKZV','WOWA','MJDT','IEOM','KLEK','OSEK','JPCY','ZHUM','THSE','DIIU','PJYE','URMM','PTPJ','DDTQ','ONUZ'};
