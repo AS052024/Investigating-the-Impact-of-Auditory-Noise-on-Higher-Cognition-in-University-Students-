@@ -4,7 +4,7 @@ clear, close all
 loadpath = '% enter load path here';
 
 % list subject IDs
-allsubj = {'KKDU','SKFH','ERPR','BNCL','DFYP','JAIZ','OGGK','UBGZ','IYHS','XHLL','POTR','GTZA','GPWQ','AIGZ','OMQP','YEMR','OKZV','WOWA','MJDT','IEOM','KLEK','OSEK','JPCY','ZHUM','THSE','DIIU','PJYE','URMM','PTPJ','DDTQ','ONUZ'};
+allsubj = {% enter 4 letter participant code here};
 
 % list conditions
 allcond = [1 2 3];
